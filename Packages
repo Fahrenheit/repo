@@ -1,0 +1,31 @@
+Package: frash
+Name: frash
+Version: 0.01
+Architecture: iphoneos-arm 
+Description: All your base are belong to us?
+Homepage: http://github.com/comex/frash
+Maintainer: comex <comexk@gmail.com>
+Author: comex <comexk@gmail.com>
+Section: Utilities
+Depends: gsc.armv7
+Filename: debs/Frash-0.01.deb
+Size: 23987308
+MD5sum: b05d356bb1beb1dda13328b2326a9a04
+SHA1: 7de2692efd3f655dde61ea44a14eae96f948227b
+SHA256: 82c82699f9da91227b3585c9f5533b38eae6534b2acd3544e632c1f16b0d6a63
+
+Package: frash
+Name: frash
+Version: 0.02
+Architecture: iphoneos-arm 
+Description: All your base are belong to us?
+Homepage: http://github.com/comex/frash
+Maintainer: comex <comexk@gmail.com>
+Author: comex <comexk@gmail.com>
+Section: Utilities
+Depends: gsc.armv7
+Filename: debs/Frash-0.02.deb
+Size: 12186952
+MD5sum: addafd05469851faa0ad9e5d6c4e5df3
+SHA1: effe915f2ec78c71d70ebdc9d4cf0fbdaacf8616
+SHA256: eb0b803a8bd9006b0dd5aa9b08226be20199d88e4e7a0e0a31d159754a2def39
