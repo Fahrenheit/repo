@@ -1,4 +1,4 @@
-Package: org.pilin.cavestory_v0.8_iphoneos-arm
+Package: org.pilin.cavestory
 Section: Games
 Maintainer: Pavel Ilin <ilin.pa@gmail.com>
 Architecture: iphoneos-arm
@@ -8,6 +8,7 @@ Name: Cave Story
 Homepage: https://github.com/PIlin/NXEngine-iOS
 Depiction: http://pilin.github.io/NXEngine-iOS/changelogs/v0.8.html
 Author: Pavel Ilin <ilin.pa@gmail.com>
+Filename: debs/org.pilin.cavestory_v0.8_iphoneos-arm.deb
 
 Package: frash
 Name: frash
