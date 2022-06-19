@@ -4,7 +4,7 @@ Maintainer: Pavel Ilin <ilin.pa@gmail.com>
 Architecture: iphoneos-arm 
 Version: v0.8
 Description: iOS port of the Cave Story
-Name: Cave Story
+Name: Cave Story Test
 Homepage: https://github.com/PIlin/NXEngine-iOS
 Depiction: http://pilin.github.io/NXEngine-iOS/changelogs/v0.8.html
 Author: Pavel Ilin <ilin.pa@gmail.com>
