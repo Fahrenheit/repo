@@ -1,14 +1,14 @@
 Package: org.pilin.cavestory
-Section: Games
-Maintainer: Pavel Ilin <ilin.pa@gmail.com>
-Architecture: iphoneos-arm
-Version: v0.8
-Description: iOS port of the Cave Story
 Name: Cave Story
+Version: v0.8
+Architecture: iphoneos-arm
+Description: iOS port of the Cave Story
 Homepage: https://github.com/PIlin/NXEngine-iOS
+Maintainer: Pavel Ilin <ilin.pa@gmail.com>
 Depiction: http://pilin.github.io/NXEngine-iOS/changelogs/v0.8.html
 Author: Pavel Ilin <ilin.pa@gmail.com>
-Filename: debs/org.pilin.cavestory_v0.8_iphoneos-arm.deb
+Section: Games
+Filename: debs/org.pilin.cavestory-v.0.8.deb
 
 Package: frash
 Name: frash
